@@ -11,4 +11,4 @@ I developed the following ideas in React for tic-tac-toe game: (these improvemen
 
 All changes are implemented in [/src/index.js](https://github.com/Jorge36/tic-tac-toe/blob/master/src/index.js) and [/src/index.css](https://github.com/Jorge36/tic-tac-toe/blob/master/src/index.css)
 
-I coded this game using Visual Studio Code (Version 1.88.1) on Ubuntu 20.04. There is a video in ./video/, where we can see the application running on a firefox browser.
+I coded this game using Visual Studio Code (Version 1.88.1) on Ubuntu 20.04. There is a video (tic-tac-toe.mkv) in ./video/, where we can see the application running on a firefox browser.
