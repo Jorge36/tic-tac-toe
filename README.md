@@ -9,6 +9,6 @@ I developed the following ideas in React for tic-tac-toe game: (these improvemen
 5. When someone wins, highlight the three squares that caused the win.
 6. When no one wins, display a message about the result being a draw.
 
-
-
 All changes are implemented in [/src/index.js](https://github.com/Jorge36/tic-tac-toe/blob/master/src/index.js) and [/src/index.css](https://github.com/Jorge36/tic-tac-toe/blob/master/src/index.css)
+
+I coded this game using Visual Studio Code (Version 1.88.1) on Ubuntu 20.04. There is a video in ./video/, where we can see the application running on a firefox browser.
