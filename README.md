@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-I developed the following ideas in React for tic-tac-toe game: (these improvements are listed in [React Facebook Tutorial](https://facebook.github.io/react/tutorial/tutorial.html).
+I developed the following ideas in React of improvement that I make to the tic-tac-toe game: (these improvements are listed in [React Facebook Tutorial](https://facebook.github.io/react/tutorial/tutorial.html).
 
 1. Display the location for each move in the format (col, row) in the move history list.
 2. Bold the currently selected item in the move list.
